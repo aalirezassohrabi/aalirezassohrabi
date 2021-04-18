@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aalirezassohrabi
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning react js
-- 📫 How to reach me --> my Email: myregularmail21@gmail.com
+- 📫 How to reach me --> my Email: iam.alireza.sohrabi@gmail.com
 
 <!---
 aalirezassohrabi/aalirezassohrabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
